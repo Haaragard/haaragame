@@ -1,0 +1,8 @@
+#ifndef HAARAGAME_CONFIGS_CONSTS_C
+    #define HAARAGAME_CONFIGS_CONSTS_C
+
+    #define SCREEN_HEIGHT 800
+    #define SCREEN_WIDTH 600
+
+    #define DEFAULT_FPS 60
+#endif

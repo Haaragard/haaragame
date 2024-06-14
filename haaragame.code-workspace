@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../musializer"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"time.h": "c",
+			"raylib.h": "c",
+			"normal-button.h": "c",
+			"stdlib.h": "c",
+			"string.h": "c",
+			"memory_resource": "c",
+			"stddef.h": "c",
+			"functional": "c",
+			"typeinfo": "c"
+		}
+	}
+}
